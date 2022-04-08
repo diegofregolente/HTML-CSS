@@ -80,4 +80,22 @@ main {
     border: 2px solid blue;
 }
 
+.beneficios h3 {
+    margin: 10px 0;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
 
+.beneficios ol {
+    margin: 30px auto;
+    padding: 20px;
+    width: 900px;
+    background: #cccccc;
+    border: 2px solid black;
+    list-style: decimal;
+    list-style-position: inside;
+}
+.beneficios li {
+    line-height: 2em;
+}
