@@ -34,13 +34,19 @@ em > strong {
 .beneficios {
     background: #ffffff;
     padding: 20px;
+    font-size: 30px;
 }
 
 ul {
     display: inline-block;
     vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
 }
 
 .imagembeneficios {
